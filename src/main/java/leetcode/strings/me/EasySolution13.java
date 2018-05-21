@@ -1,4 +1,4 @@
-package leetcode.strings;
+package leetcode.strings.me;
 
 /**
  * Created by shamil.valiev on 5/14/2018.
